@@ -5,13 +5,13 @@ Exploratory studies into the use of machine learning for computer vision as taug
 All assignments were done with PyTorch and Google Colab
 
 ###### KNN, Linear, and Two Layer
-nearest-neighbor: Intro to image classification and implementation of kNN classifier
-linear-classifer: Study into Softmax and SVM
-two-layer-neural-network: A two layer neural network classifier
+nearest-neighbor: Intro to image classification and implementation of kNN classifier\
+linear-classifer: Study into Softmax and SVM\
+two-layer-neural-network: A two layer neural network classifier\
 
 ###### Full Neural and Convolutional
-full-connect-neural-network: A fully connected neural network with different flavours of descent in addition to SGD along with Dropout implementation.
-convolutional-network: WIP
+full-connect-neural-network: A fully connected neural network with different flavours of descent in addition to SGD along with Dropout implementation.\
+convolutional-network: WIP\
 
 
 
